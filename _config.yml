@@ -1,11 +1,9 @@
-title: Greg Surma - Portfolio
-author: Greg Surma
-email: grzegorz.surma@icloud.com
-description: Greg Surma - iOS, AI, Machine Learning, Swit, Python, Objective-C
-url: "https://iamkavin.github.io"
-twitter_username: gsurma
-github_username:  gsurma
-google_analytics: UA-110543961-1
+title: Kavin Arasu - Portfolio
+author: Kavin Arasu
+email: kavinarasu22@gmail.com
+description: Kavin Arasu -  AI, Machine Learning, NLP, Python
+url: "https://iamkavinarasu.github.io"
+github_username:  iamkavinarasu
 
 theme: jekyll-theme-minimal
 plugins:
